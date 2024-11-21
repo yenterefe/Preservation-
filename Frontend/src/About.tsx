@@ -1,4 +1,4 @@
-function About() {
+const About = (): JSX.Element => {
     return (
         <>
         </>

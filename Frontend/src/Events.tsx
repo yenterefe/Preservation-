@@ -1,4 +1,4 @@
-function Events() {
+const Events = (): JSX.Element => {
     return (
         <>
         </>
